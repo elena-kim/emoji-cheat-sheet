@@ -295,7 +295,7 @@ Quick Link
 | :books: `:books:` | :notebook:  `:notebook:` |  :ledger: `:ledger:` | 
 | :page_with_curl:  `:page_with_curl:` |  :scroll:  `:scroll:` | :page_facing_up: `:page_facing_up:` | 
 | :newspaper:  `:newspaper:` | :newspaper_roll:  `:newspaper_roll:` |  :bookmark_tabs:  `:bookmark_tabs:` | 
-| :bookmark:  `:bookmark:` |  :label:  `:label:` | :email: | `:email:`  `:envelope:` | :e-mail: | `:e-mail:` | 
+| :bookmark:  `:bookmark:` |  :label:  `:label:` | :email:  `:email:`  `:envelope:` | 
 | :incoming_envelope:  `:incoming_envelope:` | :envelope_with_arrow:  `:envelope_with_arrow:` | :outbox_tray:  `:outbox_tray:` |
 | :inbox_tray:  `:inbox_tray:` | :package:  `:package:` | :mailbox: `:mailbox:` |
 | :mailbox_closed:  `:mailbox_closed:` | :mailbox_with_mail:  `:mailbox_with_mail:` |  :mailbox_with_no_mail:  `:mailbox_with_no_mail:` | 
