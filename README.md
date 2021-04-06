@@ -433,7 +433,7 @@ Quick Link
 | :film_strip:  `:film_strip:` |  :film_projector:  `:film_projector:` | :clapper:  `:clapper:` |  :tv:  `:tv:` | 
 | :camera:  `:camera:` | :camera_flash:  `:camera_flash:` | :video_camera:  `:video_camera:` |  :vhs:  `:vhs:` | 
 | :mag:  `:mag:` |  :mag_right:  `:mag_right:` | :candle:  `:candle:` |  :bulb:  `:bulb:` | 
-| :flashlight:  `:flashlight:` |  :izakaya_lantern:  `:izakaya_lantern:``:lantern:` | :diya_lamp:  `:diya_lamp:` ||
+| :flashlight:  `:flashlight:` |  :izakaya_lantern:  `:izakaya_lantern:` `:lantern:` | :diya_lamp:  `:diya_lamp:` ||
 
 [top](#quick-link)
 <br />
