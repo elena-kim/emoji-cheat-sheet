@@ -339,7 +339,7 @@ Quick Link
 | :standing_person:  `:standing_person:` |:standing_man:  `:standing_man:` | :standing_woman:  `:standing_woman:` | 
 | :kneeling_person: `:kneeling_person:` | :kneeling_man:  `:kneeling_man:` | :kneeling_woman: `:kneeling_woman:` |
 | :person_with_probing_cane:  `:person_with_probing_cane:` |  :man_with_probing_cane:  `:man_with_probing_cane:` | :woman_with_probing_cane:  `:woman_with_probing_cane:` | 
-| :person_in_motorized_wheelchair:  `:person_in_motorized_wheelchair:` | :man_in_motorized_wheelchair:  `:man_in_motorized_wheelchair:` | :woman_in_motorized_wheelchair: |`:woman_in_motorized_wheelchair:` |
+| :person_in_motorized_wheelchair:  `:person_in_motorized_wheelchair:` | :man_in_motorized_wheelchair:  `:man_in_motorized_wheelchair:` | :woman_in_motorized_wheelchair: `:woman_in_motorized_wheelchair:` |
 |:person_in_manual_wheelchair:  `:person_in_manual_wheelchair:` |  :man_in_manual_wheelchair: `:man_in_manual_wheelchair:` | :woman_in_manual_wheelchair: `:woman_in_manual_wheelchair:` | 
 | :runner:  `:runner:`  `:running:` | :running_man:  `:running_man:` | :running_woman:  `:running_woman:` | 
 | :dancer:  `:dancer:` `:woman_dancing:` | :man_dancing:  `:man_dancing:` | :business_suit_levitating:  `:business_suit_levitating:` | 
