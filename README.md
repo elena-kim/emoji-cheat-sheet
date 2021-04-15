@@ -505,7 +505,7 @@ Quick Link
 
 | :earth_africa:  `:earth_africa:` | :earth_americas:  `:earth_americas:` | :earth_asia:  `:earth_asia:` |
 |:--- |:---|:---|
-| :globe_with_meridians:  `:globe_with_meridians:` | :world_map: | `:world_map:` | :japan:  `:japan:` | 
+| :globe_with_meridians:  `:globe_with_meridians:` | :world_map:  `:world_map:` | :japan:  `:japan:` | 
 |:compass:  `:compass:` | :mountain_snow:  `:mountain_snow:` | :mountain: `:mountain:` | 
 | :volcano:  `:volcano:` | :mount_fuji: `:mount_fuji:` |  :camping:  `:camping:` |
 | :beach_umbrella:  `:beach_umbrella:` |  :desert:  `:desert:` | :desert_island:  `:desert_island:` | 
