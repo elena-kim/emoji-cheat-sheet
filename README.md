@@ -78,7 +78,7 @@ Quick Link
 | :japanese_goblin:  `:japanese_goblin:` | :ghost:  `:ghost:` | :alien:  `:alien:` |
 | :space_invader:  `:space_invader:` | :robot:  `:robot:` | |
 
-[top](#quick-link)
+#### [Top⬆️](#quick-link)
 <br />
 
 ## Body
@@ -101,7 +101,7 @@ Quick Link
 | :eyes:  `:eyes:` |  :eye:  `:eye:` | :tongue:  `:tongue:` | 
 | :lips:  `:lips:` | :point_down:  `:point_down:` | :point_up:  `:point_up:` |
 
-[top](#quick-link)
+#### [Top⬆️](#quick-link)
 <br />
 
 ## Emotions
@@ -117,7 +117,7 @@ Quick Link
 | :bomb:  `:bomb:` | :speech_balloon:  `:speech_balloon:` |  :eye_speech_bubble:  `:eye_speech_bubble:` | :left_speech_bubble:  `:left_speech_bubble:` |
 | :right_anger_bubble:  `:right_anger_bubble:` | :thought_balloon:  `:thought_balloon:` |  :zzz:  `:zzz:` | |
 
-[top](#quick-link)
+#### [Top⬆️](#quick-link)
 <br />
 
 ## Person
@@ -144,7 +144,7 @@ Quick Link
 |  :man_shrugging:  `:man_shrugging:` | :woman_shrugging:  `:woman_shrugging:` | :speaking_head:  `:speaking_head:` |
 | :bust_in_silhouette:  `:bust_in_silhouette:` || :busts_in_silhouette:  `:busts_in_silhouette:` | :footprints:  `:footprints:` |
 
-[top](#quick-link)
+#### [Top⬆️](#quick-link)
 <br />
 
 ## Family
@@ -164,7 +164,7 @@ Quick Link
 | :family_woman_boy:  `:family_woman_boy:` |  :family_woman_boy_boy: `:family_woman_boy_boy:` | :family_woman_girl: `:family_woman_girl:` | 
 | :family_woman_girl_boy: `:family_woman_girl_boy:` | :family_woman_girl_girl:  `:family_woman_girl_girl:` | |
 
-[top](#quick-link)
+#### [Top⬆️](#quick-link)
 <br />
 
 ## Households
@@ -176,8 +176,7 @@ Quick Link
 | :roll_of_paper:  `:roll_of_paper:` | :soap:  `:soap:` |  :sponge:  `:sponge:` | :fire_extinguisher:  `:fire_extinguisher:` |
 | :shopping_cart:  `:shopping_cart:` ||||
 
-
-[top](#quick-link)
+#### [Top⬆️](#quick-link)
 <br />
 
 * * *
@@ -216,7 +215,7 @@ Quick Link
 | :spider: `:spider:` | :spider_web:  `:spider_web:` |  :scorpion:  `:scorpion:` | :mosquito:  `:mosquito:` | 
 | :microbe:  `:microbe:` ||||
 
-[top](#quick-link)
+#### [Top⬆️](#quick-link)
 <br />
 
 ## Plants
@@ -229,7 +228,7 @@ Quick Link
 | :herb:  `:herb:` | :shamrock:  `:shamrock:` |  :four_leaf_clover:  `:four_leaf_clover:` | :maple_leaf:  `:maple_leaf:` |
 | :fallen_leaf: `:fallen_leaf:` | :leaves:  `:leaves:` |||
 
-[top](#quick-link)
+#### [Top⬆️](#quick-link)
 <br />
 
 ## Nature
@@ -252,7 +251,7 @@ Quick Link
 | :snowman:  `:snowman:` | :comet:  `:comet:` |  :fire:  `:fire:` | 
 |:droplet:  `:droplet:` |  :ocean:  `:ocean:` ||
 
-[top](#quick-link)
+#### [Top⬆️](#quick-link)
 <br />
 * * *
 
@@ -284,7 +283,7 @@ Quick Link
 | :woman_with_headscarf:  `:woman_with_headscarf:` | :man_in_tuxedo:  `:man_in_tuxedo:` |  :bride_with_veil: `:bride_with_veil:` | 
 | :pregnant_woman:  `:pregnant_woman:` |  :breast_feeding:  `:breast_feeding:` ||
 
-[top](#quick-link)
+#### [Top⬆️](#quick-link)
 <br />
 
 ## Work
@@ -311,7 +310,7 @@ Quick Link
 | :triangular_ruler:  `:triangular_ruler:` | :scissors: `:scissors:` |  :card_file_box:  `:card_file_box:` | 
 | :file_cabinet:  `:file_cabinet:` |  :wastebasket:  `:wastebasket:` ||
 
-[top](#quick-link)
+#### [Top⬆️](#quick-link)
 <br />
 
 ## Tools
@@ -325,8 +324,7 @@ Quick Link
 | :balance_scale:  `:balance_scale:` | :probing_cane:  `:probing_cane:` |  :link:  `:link:` | :chains:  `:chains:` | 
 | :toolbox:  `:toolbox:` | :magnet: `:magnet:` |||
 
-
-[top](#quick-link)
+#### [Top⬆️](#quick-link)
 <br />
 * * *
 
@@ -363,7 +361,7 @@ Quick Link
 | :woman_juggling:  `:woman_juggling:` |:lotus_position:  `:lotus_position:` | :lotus_position_man:  `:lotus_position_man:` |
 | :lotus_position_woman:  `:lotus_position_woman:` | :bath:  `:bath:` | :sleeping_bed:  `:sleeping_bed:` |
 
-[top](#quick-link)
+#### [Top⬆️](#quick-link)
 <br />
 
 ## Events
@@ -376,7 +374,7 @@ Quick Link
 | :ribbon:  `:ribbon:` | :gift: `:gift:` |   :reminder_ribbon:  `:reminder_ribbon:` | :tickets:  `:tickets:` | 
 |:ticket:  `:ticket:` ||||
 
-[top](#quick-link)
+#### [Top⬆️](#quick-link)
 <br />
 
 ## Sports
@@ -392,7 +390,7 @@ Quick Link
 |:diving_mask:  `:diving_mask:` | :running_shirt_with_sash: `:running_shirt_with_sash:` |  :ski:  `:ski:` | :sled:  `:sled:` |  
 |:curling_stone:  `:curling_stone:` ||||
  
-[top](#quick-link)
+#### [Top⬆️](#quick-link)
 <br />
 
 ## Hobby
@@ -405,7 +403,7 @@ Quick Link
 | :black_joker:  `:black_joker:` | :mahjong:  `:mahjong:` |  :flower_playing_cards:  `:flower_playing_cards:` | :performing_arts:  `:performing_arts:` | 
 | :framed_picture:  `:framed_picture:` |  :art: `:art:` | :thread:  `:thread:` |  :yarn:  `:yarn:` |
  
-[top](#quick-link)
+#### [Top⬆️](#quick-link)
 <br />
 
 ## Music
@@ -419,7 +417,7 @@ Quick Link
 | :musical_keyboard:  `:musical_keyboard:` |  :trumpet:  `:trumpet:` | :violin:  `:violin:` | :banjo:  `:banjo:` | 
 | :drum:  `:drum:` ||||
 
-[top](#quick-link)
+#### [Top⬆️](#quick-link)
 <br />
 
 ## Electronics
@@ -435,7 +433,7 @@ Quick Link
 | :mag:  `:mag:` |  :mag_right:  `:mag_right:` | :candle:  `:candle:` |  :bulb:  `:bulb:` | 
 | :flashlight:  `:flashlight:` |  :izakaya_lantern:  `:izakaya_lantern:` `:lantern:` | :diya_lamp:  `:diya_lamp:` ||
 
-[top](#quick-link)
+#### [Top⬆️](#quick-link)
 <br />
 * * *
 
@@ -484,7 +482,7 @@ Quick Link
 | :fork_and_knife:  `:fork_and_knife:` | :spoon:  `:spoon:` |  :hocho:  `:hocho:`  `:knife:` | 
 | :amphora:  `:amphora:` | ||
 
-[top](#quick-link)
+#### [Top⬆️](#quick-link)
 <br />
 
 ## Places
@@ -513,7 +511,7 @@ Quick Link
 | :barber:  `:barber:` | :circus_tent:  `:circus_tent:` |:bellhop_bell:  `:bellhop_bell:` |
 | :luggage:  `:luggage:` |||
 
-[top](#quick-link)
+#### [Top⬆️](#quick-link)
 <br />
 
 ## Transport
@@ -543,7 +541,7 @@ Quick Link
 | :aerial_tramway:  `:aerial_tramway:` |  :artificial_satellite: `:artificial_satellite:` | :rocket:  `:rocket:` | 
 | :flying_saucer:  `:flying_saucer:` |||
 
-[top](#quick-link)
+#### [Top⬆️](#quick-link)
 <br />
 
 ## Time
@@ -558,7 +556,7 @@ Quick Link
 | :clock830: `:clock830:` | :clock9: `:clock9:` |  :clock930: `:clock930:` |  :clock10:  `:clock10:` |
 | :clock1030: `:clock1030:` | :clock11:  `:clock11:` |  :clock1130: `:clock1130:` | |
 
-[top](#quick-link)
+#### [Top⬆️](#quick-link)
 <br />
 
 ## Clothing
@@ -576,7 +574,7 @@ Quick Link
 | :mortar_board:  `:mortar_board:` | :billed_cap:  `:billed_cap:` | :rescue_worker_helmet: `:rescue_worker_helmet:` | :prayer_beads:  `:prayer_beads:` |
 | :lipstick:  `:lipstick:` | :ring: `:ring:` |  :gem:  `:gem:` ||
 
-[top](#quick-link)
+#### [Top⬆️](#quick-link)
 <br />
 
 ## Money
@@ -585,7 +583,7 @@ Quick Link
 | :pound:  `:pound:` | :money_with_wings:  `:money_with_wings:` | :credit_card:  `:credit_card:` | :receipt:  `:receipt:` | 
 | :chart:  `:chart:` | :currency_exchange:  `:currency_exchange:` | :heavy_dollar_sign:  `:heavy_dollar_sign:` ||
 
-[top](#quick-link)
+#### [Top⬆️](#quick-link)
 <br />
 * * *
 
@@ -637,8 +635,7 @@ Quick Link
 | :eight_pointed_black_star: `:eight_pointed_black_star:` | :sparkle:  `:sparkle:` |  :copyright:  `:copyright:` |
 | :registered:  `:registered:` |  :tm: `:tm:` ||
 
-
-[top](#quick-link)
+#### [Top⬆️](#quick-link)
 <br />
 
 ## Text
@@ -659,8 +656,7 @@ Quick Link
 | :congratulations:  `:congratulations:` |  :secret: `:secret:` | :u55b6:  `:u55b6:` |
 | :u6e80: `:u6e80:` | |||
 
-
-[top](#quick-link)
+#### [Top⬆️](#quick-link)
 <br />
 
 ## Geometric
@@ -679,7 +675,7 @@ Quick Link
 | :diamond_shape_with_a_dot_inside:  `:diamond_shape_with_a_dot_inside:` | :radio_button:  `:radio_button:` |  :white_square_button:  `:white_square_button:` | 
 |:black_square_button:  `:black_square_button:` |||
 
-[top](#quick-link)
+#### [Top⬆️](#quick-link)
 <br />
 
 ## Flags
@@ -776,7 +772,7 @@ Quick Link
 |:zimbabwe:  `:zimbabwe:` |:england:  `:england:` | :scotland:  `:scotland:` |
 | :wales:  `:wales:` |||
 
-[top](#quick-link)
+#### [Top⬆️](#quick-link)
 <br />
 
 ## Github Custom
@@ -788,8 +784,7 @@ Quick Link
 | :rage1: `:rage1:` | :rage2:  `:rage2:` | :rage3: `:rage3:` | :rage4:  `:rage4:` |
 | :shipit: `:shipit:` | :suspect:  `:suspect:` | :trollface:  `:trollface:` ||
 
-
-[top](#quick-link)
+#### [Top⬆️](#quick-link)
 <br />
 
 ## ETC
