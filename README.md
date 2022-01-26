@@ -253,6 +253,7 @@ Quick Link
 
 #### [Top⬆️](#quick-link)
 <br />
+
 * * *
 
 ## Job
@@ -326,6 +327,7 @@ Quick Link
 
 #### [Top⬆️](#quick-link)
 <br />
+
 * * *
 
 ## Activity
@@ -435,6 +437,7 @@ Quick Link
 
 #### [Top⬆️](#quick-link)
 <br />
+
 * * *
 
 ## Food
@@ -585,6 +588,7 @@ Quick Link
 
 #### [Top⬆️](#quick-link)
 <br />
+
 * * *
 
 ## Symbols
@@ -769,8 +773,7 @@ Quick Link
 | :vietnam:  `:vietnam:` | :vanuatu:  `:vanuatu:` | :wallis_futuna:  `:wallis_futuna:` | 
 | :samoa:  `:samoa:` |  :kosovo: `:kosovo:` | :yemen:  `:yemen:` |
 | :mayotte:  `:mayotte:` | :south_africa:  `:south_africa:` |  :zambia:  `:zambia:` |
-|:zimbabwe:  `:zimbabwe:` |:england:  `:england:` | :scotland:  `:scotland:` |
-| :wales:  `:wales:` |||
+|:zimbabwe:  `:zimbabwe:` | |  |
 
 #### [Top⬆️](#quick-link)
 <br />
