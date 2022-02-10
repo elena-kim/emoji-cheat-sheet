@@ -40,7 +40,7 @@ Quick Link
 
 <br/>
 
-## Face
+## Face [🔝](#quick-link)
 
 |:grinning: `:grinning:` | :smiley: `:smiley:` | :smile: `:smile:` |
 |:--- |:---|:---|
